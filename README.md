@@ -8,5 +8,5 @@ This repository includes two types of files:
     - trump_sanders_tweets.csv
 - `.ipynb` My Notebook, created in Google Colab, includes the assignment
     - Assignment3_AD_S3756262.ipynb
--`.bin` The most optimal trained model in my Notebook. Downloading and loading this helps working with the same results, instead of retraining.
+- `.bin` The most optimal trained model in my Notebook. Downloading and loading this helps working with the same results, instead of retraining.
     - trained_model3.bin
